@@ -4,6 +4,9 @@
  - Assignment 2: Mathematical Shapes
  - Assignment 3: Conditional Statements & Loops
  - Assignment 4: Rock, Paper, Scissors Game
+ 
+## TAKE NOTE
+I have added Assignment 4 with a HTML and Javascript option as the "prompt()" function can't be run in Terminal and requires a Browser. Thus the HTML is for testing purposes.
 
 ## How to run the code
 ### VSCode
